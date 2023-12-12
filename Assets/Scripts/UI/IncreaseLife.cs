@@ -9,6 +9,8 @@ public class IncreaseLife : MonoBehaviour {
 
     public bool destroyLife = true;
 
+    public AudioSource lifeAudio;
+
     public UnityEvent doIncreaseLife;
 
     void OnTriggerEnter2D (Collider2D col)
@@ -28,6 +30,13 @@ public class IncreaseLife : MonoBehaviour {
                 {
 
                     Destroy( gameObject );
+
+                }
+
+                if( lifeAudio )
+                {
+                    
+                    AudioSource.PlayClipAtPoint( lifeAudio.clip, transform.position );
 
                 }
 

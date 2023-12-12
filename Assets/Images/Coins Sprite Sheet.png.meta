@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: d70589927293424439c6bd718c960e01
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cea768547a47841befa4a1aa3a0431
+      internalID: 1541481586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d8fe18ae713d43a4766c2c010460f
+      internalID: -1443710903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e3a026e5b17c4a9f632c6cbffeeac
+      internalID: 1402325895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ae54393839ca4aa7d374d5d912f97
+      internalID: -1791409740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e4be8547ac5444a7ebd10d4a19a77
+      internalID: -1547492671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53cc08e4ef6a0a4ea618f089dc09cba
+      internalID: 2091090552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c982e01c9eaa41825d5003545c2e0
+      internalID: 525234805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ce50249108ff4e875aceaac26debb
+      internalID: -113628998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5f2e9bec69b041b79801b002a1b88
+      internalID: -1316984023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 194.66666
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a1c0eb240f3114094e85349fc97675
+      internalID: 736317814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f302909e7313d4ca6cbe901c6697e7
+      internalID: 817049905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74bf6aa96e74534f9dd9f9293641ebe
+      internalID: -1359347468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399adf750d72ab749b282a61affe711f
+      internalID: -1418249696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f59c438531b1964b8cb34c7a7e6870c
+      internalID: -1042685810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cedbb717b881c043929eaf3b621e7da
+      internalID: -730280049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5849ed107a865439388a94443c3ce1
+      internalID: -822178070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12806940372b60b44a225ca3199e4c3b
+      internalID: -391175573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9e2276e77a5c428fa4d4a6177ff5f
+      internalID: -407402142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e15a3acd8b131409cb51012db13eee
+      internalID: 2082392720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 97.666664
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23323e22291021947b6d92109933d463
+      internalID: -668070310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b677a828655b15479679bbd30ac7627
+      internalID: -296839149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1202cf6dd23975641b945eadb1d7d582
+      internalID: -1154319770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cad98f9114e8094496e53c2b985837a
+      internalID: 868957701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c67ab1ce66ddef44bbfc282af266205
+      internalID: 254066733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0883a46229436434cadaa29bac42266b
+      internalID: 246093892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd8e5a637ddff14eb09ec578c544679
+      internalID: 463380964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fb450b0def5004ba1ee29d29ff9ff9
+      internalID: 2009728170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c857dba12db35f4f9372285b09bc353
+      internalID: -1618502526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8f2971685f41a409b64ca9ac82bc7d
+      internalID: 1718663488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0.6666641
+        width: 100
+        height: 97.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f766c3dc10fece4ab8c2b6c27c29056
+      internalID: 362013345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Coins Sprite Sheet_0: 1541481586
+      Coins Sprite Sheet_1: -1443710903
+      Coins Sprite Sheet_10: 817049905
+      Coins Sprite Sheet_11: -1359347468
+      Coins Sprite Sheet_12: -1418249696
+      Coins Sprite Sheet_13: -1042685810
+      Coins Sprite Sheet_14: -730280049
+      Coins Sprite Sheet_15: -822178070
+      Coins Sprite Sheet_16: -391175573
+      Coins Sprite Sheet_17: -407402142
+      Coins Sprite Sheet_18: 2082392720
+      Coins Sprite Sheet_19: -668070310
+      Coins Sprite Sheet_2: 1402325895
+      Coins Sprite Sheet_20: -296839149
+      Coins Sprite Sheet_21: -1154319770
+      Coins Sprite Sheet_22: 868957701
+      Coins Sprite Sheet_23: 254066733
+      Coins Sprite Sheet_24: 246093892
+      Coins Sprite Sheet_25: 463380964
+      Coins Sprite Sheet_26: 2009728170
+      Coins Sprite Sheet_27: -1618502526
+      Coins Sprite Sheet_28: 1718663488
+      Coins Sprite Sheet_29: 362013345
+      Coins Sprite Sheet_3: -1791409740
+      Coins Sprite Sheet_4: -1547492671
+      Coins Sprite Sheet_5: 2091090552
+      Coins Sprite Sheet_6: 525234805
+      Coins Sprite Sheet_7: -113628998
+      Coins Sprite Sheet_8: -1316984023
+      Coins Sprite Sheet_9: 736317814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
